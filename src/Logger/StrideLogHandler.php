@@ -9,7 +9,7 @@ use Monolog\Handler\Curl\Util;
 /**
  * Sends notifications through the stride api to a stride room
  *
- * @author Jeremias Wolff <jeremias.wolff@publicare.de>
+ * @author Jeremias Wolff <jeremiaswolff@gmail.com>
  * @see    https://developer.atlassian.com/cloud/stride/
  */
 class StrideLogHandler extends AbstractProcessingHandler
