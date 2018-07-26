@@ -2,7 +2,7 @@
     "name": "comes/stridelogger",
     "description": "This is a very simple log handler for monolog to send a message to stride",
     "type": "project",
-    "license" : "custom",
+    "license" : "MIT",
     "require": {
         "php": ">=5.3.2",
         "monolog/monolog": "1.*"
